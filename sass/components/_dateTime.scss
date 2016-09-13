@@ -1,0 +1,9 @@
+.date-time {
+	text-align: right;
+}
+
+.clock {
+	& .time {
+		font-size: 6em;
+	}
+}

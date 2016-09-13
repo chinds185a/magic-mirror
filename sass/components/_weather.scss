@@ -1,0 +1,9 @@
+.weather-data {
+  & .temp {
+    font-size: 6em;
+  }
+
+  & .description {
+    text-transform: capitalize;
+  }
+}

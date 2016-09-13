@@ -1,0 +1,34 @@
+body {
+	background-color: #000;
+}
+
+.container {
+	
+}
+
+.header-container {
+	display: -webkit-flex;
+  	display: flex;
+  	-webkit-flex-direction: row;
+  	flex-direction:	row;
+	-webkit-justify-content: space-between;
+  	justify-content: space-between;
+}
+
+.welcome-container {
+	display: -webkit-flex;
+  	display: flex;
+  	-webkit-flex-direction: row;
+  	flex-direction:	row;
+	-webkit-justify-content: center;
+  	justify-content: center;
+}
+
+.flex {
+	display: -webkit-flex;
+  	display: flex;
+  	-webkit-flex-direction: row;
+  	flex-direction:	row;
+	-webkit-justify-content: space-between;
+  	justify-content: space-between;
+}

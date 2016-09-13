@@ -1,0 +1,12 @@
+/**
+ *	Base Styles
+ */
+@import '_base.scss';
+@import '_typography.scss';
+
+/**
+ *	Component Styles
+ */
+ @import './components/_dateTime.scss';
+ @import './components/_weather.scss';
+  @import './components/_welcome.scss';
